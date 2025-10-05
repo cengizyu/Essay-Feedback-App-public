@@ -25,3 +25,6 @@ See **Releases** for the latest `.exe`. By downloading you accept the [EULA](./E
 
 ## License
 See [LICENSE](./LICENSE.md). Commercial use, redistribution, or modification is prohibited without permission.
+
+## Contact
+For any requests, please email **yusuf.cengiz@bogazici.edu.tr**  
