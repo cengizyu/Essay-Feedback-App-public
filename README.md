@@ -9,7 +9,7 @@ This repo contains documentation, screenshots, and downloads. **Source code is p
 - Margin comments 
 
 ## Download
-See **Releases** for the latest `.exe`. By downloading you accept the [EULA](./EULA.txt).
+See **Releases** for the latest `.exe`. By downloading you accept the [EULA](./EULA.md).
 
 ## Quick Start
 1. Download the `.exe` from Releases.
@@ -24,4 +24,4 @@ See **Releases** for the latest `.exe`. By downloading you accept the [EULA](./E
 - [Example YAMLs](./examples/)
 
 ## License
-See [LICENSE](./LICENSE.txt). Commercial use, redistribution, or modification is prohibited without permission.
+See [LICENSE](./LICENSE.md). Commercial use, redistribution, or modification is prohibited without permission.
