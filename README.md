@@ -1,4 +1,4 @@
-# Essay-Feedback-App-public
+# Essay Feedback App (public version)
 A Windows desktop tool that inserts AI-assisted margin comments into .docx essays for ELT courses (B1 focus).  
 This repo contains documentation, screenshots, and downloads. **Source code is private.**
 
