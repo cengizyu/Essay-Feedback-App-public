@@ -11,7 +11,7 @@ This repo contains documentation, screenshots, and downloads. **Source code is p
 See **Releases** for the latest `.exe`. By downloading you accept the [EULA](./EULA.md).
 
 ## Documentation
-- [How to Use](./docs/quickstart.md)
+- [How to Use](./docs/howtouse.md)
 - [Sample Prompts](./prompts/)
 - [Example YAMLs](./examples/)
 
