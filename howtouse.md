@@ -8,7 +8,7 @@
 5. Once the folder is extracted, everything is ready. 
 
 ## 1. Downloading the app
-Download the app by clicking on the file under "releases" on the right hand side. 
+Download the app by clicking on the file under "releases" on the right hand side [here](https://github.com/cengizyu/Essay-Feedback-App-public). 
 
 ## 2. Starting the app
 Start the app by double clicking on the EssayFeedbackApp.exe 
