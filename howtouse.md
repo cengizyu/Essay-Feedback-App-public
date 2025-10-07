@@ -31,14 +31,14 @@ This is the main window.
 - Parts under "Output Format", "Anchoring Rules" and "JSON policy" should not be changed.
 - If any changes are made to the prompts, the user should click on "save override" to save their changes. 
 - Before you personalize your prompts, it is always a good idea to copy and paste what is already on the "prompt" screen.
-- If needed, the default prompt can be found here [Default prompt](./main/defaultprompt.md). You can copy and paste it into the "Prompts" screen and click on save override.
+- If needed, the default prompt can be found here [Prompts](./main/prompts.md). You can copy and paste it into the "Prompts" screen and click on save override.
 
 ## 6. Workflow 2 - Personalizing YAML
 - YAML decides the number of minimum output that the program needs to produce each time.
 - Changes here should be made with the author in order to produce the desired outputs. 
 - This screen can be used if the user would like to increase the feedback generated for one area, or would like to stop the tool from generating feedback for a specific area, i.e. grammar, vocabulary, organization or content.
 - When personalizing, the user can either can click on "edit in place" and "save" after making changes or can upload a different YAML document.
-- If needed, the default YAML can be found here [Default YAML](./main/defaultyaml.md). The structure should not be changed, e.g. each YAML document should have a "profile".
+- If needed, the default YAML can be found here [YAMLs](./main/yamls.md). The structure should not be changed, e.g. each YAML document should have a "profile".
 - If this screen is left empty, the program switches to in-built YAML.
 
 ## 7. Workflow 3 - Uploading the essays and generating outputs - Single files
