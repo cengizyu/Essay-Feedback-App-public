@@ -11,9 +11,9 @@ This repo contains documentation, screenshots, and downloads. **Source code is p
 See **Releases** for the latest `.exe`. By downloading you accept the [EULA](./EULA.md).
 
 ## Documentation
-- [How to Use](./main/howtouse.md)
-- [Sample Prompts](./main/prompts/)
-- [Example YAMLs](./main/yamls/)
+- [How to Use](howtouse.md)
+- [Sample Prompts](prompts.md)
+- [Example YAMLs](yamls.md)
 
 ## License
 See [LICENSE](./LICENSE.md). Commercial use, redistribution, or modification is prohibited without permission.
