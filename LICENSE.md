@@ -11,7 +11,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 By using EssayFeedbackApp, you agree to the EULA.
 
-EULA
+
+# EULA
 
 END-USER LICENSE AGREEMENT (EULA)
 for EssayFeedbackApp
@@ -28,7 +29,7 @@ BY INSTALLING OR USING THIS SOFTWARE, YOU AGREE TO THE TERMS BELOW.
    - You may not use the App for commercial purposes.
 
 3. OWNERSHIP
-   The App and all accompanying files remain the intellectual property of Yusuf C. All rights not expressly granted are reserved.
+   The App and all accompanying files remain the intellectual property of Yusuf CENGİZ. All rights not expressly granted are reserved.
 
 4. WARRANTY DISCLAIMER
    The App is provided “AS IS”. No warranty is given that it will be error-free or suitable for any particular purpose.
